@@ -7,7 +7,17 @@ export default function About() {
       <p>
         I am a passionate Full Stack Developer who loves building modern web
         applications.
+        I am a passionate Full Stack Developer who loves building modern web
+        applications.
+      </p>
+      <p>
+        I am a passionate Full Stack Developer who loves building modern web
+        applications.
       </p>
     </section>
   );
+  
+
+
+
 }
